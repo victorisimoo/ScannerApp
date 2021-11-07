@@ -4,7 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ParserApp.Structure {
-    class Parser {
+namespace ParserApp.Structure
+{
+    class Parser
+    {
+        
     }
 }

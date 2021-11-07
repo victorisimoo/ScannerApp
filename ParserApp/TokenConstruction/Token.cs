@@ -5,6 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ParserApp.TokenConstruction {
-    class Token {
+    public struct Token
+    {
+        public TokenType Tag; // un numero o id de token
+        public char Value; //simbolo
+
     }
 }
